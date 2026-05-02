@@ -1,7 +1,7 @@
 # Домашня робота 2
 
 **ПІБ:** Кручина Вадим  
-**Файл для GitHub:** `homework/module1/kruchyna_homework_2.md`
+**Файл для GitHub:** `/kruchyna_homework_2.md`
 
 > Примітка до середовища: команди виконувались у **macOS (Darwin)**; використано еквіваленти шляхів і утиліт GNU/Linux (`/Users/...`, `dscl`, `id` замість типових у прикладах `/home/...` та записів у стилі `/etc/passwd`).
 
